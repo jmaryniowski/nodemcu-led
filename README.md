@@ -14,8 +14,8 @@ Simple nodemcu webserver controlling 3 leds.
 ## Software
 
 * Arduino IDE
-* [ESP8266WiFi library](https://github.com/esp8266/Arduino/tree/master/libraries/ESP8266WebServer)
-* [ESP8266WebServer library](https://github.com/esp8266/Arduino/tree/master/libraries/ESP8266WiFi)
+* [ESP8266WiFi library](https://github.com/esp8266/Arduino/tree/master/libraries/ESP8266WiFi)
+* [ESP8266WebServer library](https://github.com/esp8266/Arduino/tree/master/libraries/ESP8266WebServer)
 
 ## Results
 
